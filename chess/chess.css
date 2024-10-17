@@ -1,0 +1,28 @@
+.chessboard{
+    display: flex;
+
+}
+.b1{
+    background-color:black;
+    border: solid 1px white;
+    height: 80px;
+    width: 80px;
+}
+
+.b2{
+    background-color:white;
+    border: solid 1px black;
+    height: 80px;
+    width: 80px;
+}
+
+.fa-solid , .fa-regular{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.main{
+    margin: 0 auto;
+    width: 50%;
+    
+}
+
